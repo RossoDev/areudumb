@@ -1,7 +1,5 @@
 # areudumb
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rohats/areudumb?color=brightgreen">
-
 \
 
 X3 CREATED:
