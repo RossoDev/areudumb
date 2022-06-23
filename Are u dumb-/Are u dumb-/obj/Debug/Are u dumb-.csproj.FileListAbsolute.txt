@@ -1,0 +1,11 @@
+C:\Users\utente\source\repos\Are u dumb-\Are u dumb-\bin\Debug\Are u dumb-.exe.config
+C:\Users\utente\source\repos\Are u dumb-\Are u dumb-\bin\Debug\Are u dumb-.exe
+C:\Users\utente\source\repos\Are u dumb-\Are u dumb-\bin\Debug\Are u dumb-.pdb
+C:\Users\utente\source\repos\Are u dumb-\Are u dumb-\obj\Debug\Are u dumb-.csproj.AssemblyReference.cache
+C:\Users\utente\source\repos\Are u dumb-\Are u dumb-\obj\Debug\Are u dumb-.csproj.SuggestedBindingRedirects.cache
+C:\Users\utente\source\repos\Are u dumb-\Are u dumb-\obj\Debug\Are_u_dumb_.areudumb.resources
+C:\Users\utente\source\repos\Are u dumb-\Are u dumb-\obj\Debug\Are_u_dumb_.Properties.Resources.resources
+C:\Users\utente\source\repos\Are u dumb-\Are u dumb-\obj\Debug\Are u dumb-.csproj.GenerateResource.cache
+C:\Users\utente\source\repos\Are u dumb-\Are u dumb-\obj\Debug\Are u dumb-.csproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\Are u dumb-\Are u dumb-\obj\Debug\Are u dumb-.exe
+C:\Users\utente\source\repos\Are u dumb-\Are u dumb-\obj\Debug\Are u dumb-.pdb
