@@ -22,4 +22,6 @@ Pure c#,
 
 | APPLICATION: <a href="https://github.com/Rohats/areudumb/blob/d627027d5c89e8f13585becb7c5a37ea1368cd9f/Are%20u%20dumb-/Are%20u%20dumb-/bin/Debug/Are%20u%20dumb-.exe">areudumb-.exe</a>.
 
+![](https://github.com/Rohats/areudumb/blob/1421bbbff705c40ac145830c9e868856a984ff3e/Are%20u%20dumb-/Are%20u%20dumb-/logo/1.png) ![](https://github.com/Rohats/areudumb/blob/1421bbbff705c40ac145830c9e868856a984ff3e/Are%20u%20dumb-/Are%20u%20dumb-/logo/2.png)
+
 | IMAGE ATTRIBUTION: <a href="https://www.flaticon.com/free-icons/stupid" title="stupid icons">Stupid icons created by Smashicons - Flaticon</a>.
