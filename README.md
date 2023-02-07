@@ -22,7 +22,7 @@ Pure c#,
 
 | SOURCE CODE: <a href="https://github.com/Rohats/areudumb/blob/d627027d5c89e8f13585becb7c5a37ea1368cd9f/Are%20u%20dumb-/Are%20u%20dumb-/areudumb.cs">areudumb.cs</a>.
 
-| APPLICATION: <a href="https://github.com/Rohats/areudumb/blob/d627027d5c89e8f13585becb7c5a37ea1368cd9f/Are%20u%20dumb-/Are%20u%20dumb-/bin/Debug/Are%20u%20dumb-.exe">areudumb-.exe</a>.
+| APPLICATION DOWNLOAD: <a href="https://github.com/Rohats/areudumb/blob/d627027d5c89e8f13585becb7c5a37ea1368cd9f/Are%20u%20dumb-/Are%20u%20dumb-/bin/Debug/Are%20u%20dumb-.exe">areudumb-.exe</a>.
 
 # SCREENS:
 
